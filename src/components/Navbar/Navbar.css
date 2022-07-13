@@ -1,0 +1,27 @@
+
+
+.nav-bar nav {
+ 
+    justify-content: center;
+    width: 100%;
+    margin: auto;
+    height: 100px;
+    background: rgb(22, 21, 24);
+    color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+.nav-bar ul {
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-bar ul li {
+    padding: 5px;
+}
